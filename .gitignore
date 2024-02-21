@@ -62,3 +62,7 @@ doram_build_log.txt
 .vsls.json
 
 temp*
+
+# emptool
+emp-tool/
+install.py
